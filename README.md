@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¿Quién soy? 👋
 
-<!--
-**Nina1823/Nina1823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Liliana Arias, actualmente soy estudiante en desarrollo de software (5to semestre) y full-stack deveper en henry, me gusta estar en un constante aprendizaje sobre la tecnología, ahora mi gusto está inclinado por Frontend developer 
 
-Here are some ideas to get you started:
+### ¿Quién tecnologías uso? 
+* JavaScript
+* HTML5, CSS3 y Bootstrap 
+* PostgreSQL
+* Sequelize
+* NodeJS
+* Express
+* Axios
+* Redux
+* MailJS
+* LandbotApp
+* Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Puedes contactarme en
+* https://www.linkedin.com/in/liliana-arias-rivera-ab8aa7252/
+* correo: lilianarivera310@gmail.com
