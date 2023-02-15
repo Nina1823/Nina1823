@@ -1,6 +1,6 @@
 ### ¿Quién soy? 👋
 
-Soy Liliana Arias, actualmente soy estudiante en desarrollo de software (5to semestre) y full-stack deveper en henry, me gusta estar en un constante aprendizaje sobre la tecnología, ahora mi gusto está inclinado por Frontend developer 
+Soy Liliana Arias Rivera, formada como full-stack developer en Henry, actualmente soy estudiante en desarrollo de software (5to semestre), me gusta estar en un constante aprendizaje sobre la tecnología, ahora mi gusto está inclinado por Frontend developer 
 
 ### ¿Quién tecnologías uso? 
 * JavaScript
