@@ -4,16 +4,15 @@ Soy Liliana Arias Rivera, formada como full-stack developer en Henry, actualment
 
 ### ¿Quién tecnologías uso? 
 * JavaScript
-* HTML5, CSS3 y Bootstrap 
+* HTML5, CSS y Bootstrap 
 * PostgreSQL
 * Sequelize
 * NodeJS
+* React
 * Express
 * Axios
 * Redux
-* MailJS
-* LandbotApp
-* Firebase
+
 
 ### Puedes contactarme en
 * https://www.linkedin.com/in/liliana-arias-rivera-ab8aa7252/
