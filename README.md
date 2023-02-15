@@ -16,5 +16,5 @@ Soy Liliana Arias Rivera, fuí formada como Full-Stack developer en Henry, duran
 
 
 ### Puedes contactarme en
-* require'https://www.linkedin.com/in/liliana-arias-rivera-ab8aa7252/'
+https://www.linkedin.com/in/liliana-arias-rivera-ab8aa7252/
 * correo: lilianarivera310@gmail.com
